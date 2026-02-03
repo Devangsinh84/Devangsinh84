@@ -1,14 +1,34 @@
-# 💫 About Me:
-Devangsinh Gohil<br>Software Engineer|.NET Developer|AI & ML ux desinger<br>devanggohil70@gmail.com<br>+33 7 43 64 72 56<br>Devangsinh84<br>Professional Summary<br>Devangsinh Gohil<br>Software Engineer experienced with full-stack development using .NET and Java, with exposure to Spring and modern web<br>frameworks.<br>Education<br>ECE PARIS<br>Expected Graduation: June 2026<br>MSCAI–M2<br>Key Coursework: Generative AI, LLMs, Diffusion Models, Distributed Systems, Cloud Computing, Computer Vision, AI for<br>Automation<br>Sardar Vallabhbhai Patel Institute Of Technology, Vasad<br>B.E. in Information Technology<br>Experience<br>INJALA : A Fintech Company | Software Engineer I<br>Graduation date: Jul. 2023<br>CGPA: 8.71/10<br>Aug. 2023– Aug 2025<br>• Developed and optimized key modules (Agent Portal, Carrier Portal) within the Kinetic Insurance platform, improving<br>user experience and system scalability.<br>• Collaborated with cross-functional teams (product, QA, and design) to build responsive and efficient web applications<br>using ASP.NET Core, JavaScript, and SQL.<br>• Implemented RESTful APIs, data models, and automated email communication workflows, enhancing real-time busi<br>ness operations.<br>• Contributed to testing, performance optimization, and technical documentation for seamless team collaboration.<br>• Mentored interns on architecture and code quality, fostering a collaborative learning environment.<br>INJALA : A Fintech Company | Software Engineer Intern<br>Jan. 2023– July 2023<br>• Gained hands-on experience in full-stack development using .NET Core, C#, JavaScript, SQL, and API integrations.<br>• Assisted in debugging, feature enhancement, and QA, ensuring smooth product releases.<br>• Actively participated in agile processes—daily stand-ups, code reviews, and sprint planning—to learn clean coding and<br>teamwork practices.<br>Skills<br>Programming & Backend: C#, ASP.NET Core, REST APIs, MVC, Entity Framework, Node.js, Python<br>Frontend: JavaScript, jQuery, React.js, HTML, CSS<br>AI & Machine Learning: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Generative AI, LLMs, Diffusion<br>Models, Computer Vision<br>Databases: Microsoft SQL Server, MySQL, Firebase<br>Tools & Cloud: Azure DevOps, Git, CI/CD, Agile/Scrum, Postman<br>Soft Skills: Team collaboration, mentoring, problem-solving, continuous learning<br>
+## Hi, I’m Devangsinh 👋
 
+Software Engineer with 2+ years of experience building and maintaining
+production-grade backend systems using .NET in the Fintech domain.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DevangsinhGOhil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanggohil70@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Currently pursuing an MS in Artificial Intelligence, with a strong focus on
+applied ML, LLM-based systems, and backend–AI integration.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Devangsinh84&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💼 Background
+- Software Engineer at a Fintech company (2+ years)
+- Built and maintained scalable portals using ASP.NET Core, REST APIs, and SQL Server
+- Worked on live production systems and mentored interns
+
+---
+
+### 🤖 Current Focus
+- Applied AI & Machine Learning
+- Retrieval-Augmented Generation (RAG) systems
+- LLM pipelines using LangChain, FAISS, and Python
+- Designing backend systems that integrate AI capabilities
+
+---
+
+### 🛠 Core Tech Stack
+**Backend:** C#, .NET, ASP.NET Core, REST APIs, SQL Server  
+**AI / ML:** Python, Pandas, Scikit-learn, PyTorch, LLMs  
+**Cloud & Tools:** Azure, Docker, Git, CI/CD
+
+---
+
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/devangsinh-gohil-70a42a239/)
