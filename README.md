@@ -30,5 +30,4 @@ applied ML, LLM-based systems, and backend–AI integration.
 
 ---
 
-📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/devangsinh-gohil-70a42a239/)
+📫 **Connect with me:**  [LinkedIn](https://www.linkedin.com/in/devangsinh-gohil-70a42a239/)
